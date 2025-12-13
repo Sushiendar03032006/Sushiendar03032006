@@ -19,7 +19,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & LeetCode Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sushiendar03032006&show_icons=true&theme=radical" alt="Sushiendar's GitHub Stats" />
@@ -31,23 +31,23 @@
 
 ### 🎯 Professional Summary
 
-* 💻 **Core Focus:** Computer Science student with strong fundamentals in **C** and **Java**.
-* 🌐 **Web Dev:** Actively building **MERN stack** projects.
-* ✨ **Philosophy:** Passionate about writing **clean, simple, and efficient code**.
-* 🧠 **Problem Solving:** Consistent DSA practice with a strong mindset for algorithmic challenges.
+* 💻 **Core Focus:** Strong fundamentals in **C** and **Java**.  
+* 🌐 **Web Development:** Building **MERN stack** projects.  
+* ✨ **Philosophy:** Writing **clean, simple, and efficient code**.  
+* 🧠 **Problem Solving:** Consistent **DSA practice** with a strong mindset for algorithms.  
 
 ---
 
 ### 🛠️ Technical Skills
 
 <div align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <br />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <br/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
@@ -55,12 +55,13 @@
 
 ### 🔭 Current Focus
 
-* 🚧 Developing full‑stack applications using the **MERN stack**.
-* 📚 Strengthening **DSA skills using Java**.
-* 🌱 Learning industry‑level coding practices.
+* 🚧 Developing full‑stack applications using **MERN stack**.  
+* 📚 Strengthening **DSA skills using Java**.  
+* 🌱 Learning **industry-level coding practices**.  
 
 ---
 
 <div align="center">
   Made with ❤️ by Sushiendar M
 </div>
+
