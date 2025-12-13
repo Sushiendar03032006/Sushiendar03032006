@@ -1,16 +1,18 @@
-## Hi there 👋
+RoopakCS/README.md
+💫 About Me:
+🎓 B.Tech Information Technology student at Saveetha Engineering College (3nd Year, 4rd Semester).
+💻 Passionate about web development and building impactful projects.
 
-<!--
-**Sushiendar03032006/Sushiendar03032006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn YouTube email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+🏆 GitHub Trophies
+
