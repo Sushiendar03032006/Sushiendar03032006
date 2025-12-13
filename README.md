@@ -4,7 +4,7 @@ RoopakCS/README.md
 💻 Passionate about web development and building impactful projects.
 
 🌐 Socials:
-LinkedIn YouTube email
+LinkedIn YouTube emai
 
 💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
