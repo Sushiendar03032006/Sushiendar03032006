@@ -1,8 +1,5 @@
 # Hi there, I'm Sushiendar M 👋
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x300?text=Sushiendar+M+-+Full+Stack+Developer" alt="Sushiendar Banner" width="100%" />
-</div>
 
 <div align="center">
   <h3>BE Computer Science & Engineering Undergraduate (3rd Year) 🎓</h3>
