@@ -16,12 +16,12 @@
 
 ---
 
-### 📊 GitHub & LeetCode Stats
+### 📊 LeetCode Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sushiendar03032006&show_icons=true&theme=radical" alt="Sushiendar's GitHub Stats" />
-  <br/>
-  <img src="https://leetcard.jacoblin.cool/Sushiendar03032006?theme=dark&font=Sora" alt="LeetCode Stats" />
+ 
+  <img width="556" height="252" alt="image" src="https://github.com/user-attachments/assets/08860f8a-f7e0-4fae-99d8-548868c673a0" />
+
 </div>
 
 ---
